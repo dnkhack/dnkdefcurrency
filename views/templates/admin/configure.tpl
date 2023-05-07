@@ -46,3 +46,5 @@
 		</ul>
 	</p>
 </div>
+
+{include file='./prestashop.world.tpl'}
